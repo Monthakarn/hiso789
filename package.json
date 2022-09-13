@@ -1,0 +1,18 @@
+{
+  "name": "atom-package-template",
+  "main": "./lib/atom-package-template",
+  "version": "0.0.1",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-package-template:toggle"
+  },
+  "repository": "https://github.com/7elven/atom-package-template",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
