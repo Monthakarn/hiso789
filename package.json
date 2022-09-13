@@ -1,13 +1,15 @@
 {
   "name": "atom-package-template",
-  "main": "./lib/atom-package-template",
-  "version": "0.2.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "theme": "atom-package-template",
+  "version": "0.3.0",
+  "description": "เพิ่มตรงนี้",
+  "keywords": [
+    "ใส่เพิ่มตรงนี้",
+    "เพิ่มตรงนี้"
+  ],
   "repository": "https://github.com/7elven/atom-package-template",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {}
+  }
 }
