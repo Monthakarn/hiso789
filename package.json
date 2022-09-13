@@ -1,7 +1,7 @@
 {
   "name": "atom-package-template",
   "main": "./lib/atom-package-template",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/7elven/atom-package-template",
