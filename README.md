@@ -2,6 +2,7 @@
 
 ## วิธีสร้าง Package ขึ้นไปบน atom.io
 
+0. ดาวน์โหลด [atom](https://atom.io) ก่อน 
 1. สมัครสมาชิก atom.io ด้วยการ connect กับ github
 2. ไปที่ [account](https://atom.io/account) เพื่อคัดลอก API Token
 3. สร้าง Repositories ใหม่ ที่ github.com ให้ branch เริ่มต้นเป็น master ไม่ใช่ main
