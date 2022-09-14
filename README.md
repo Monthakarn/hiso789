@@ -1,3 +1,3 @@
 # atom-package-template
 
-ทดสอบ
+ทดสอบ hello world
