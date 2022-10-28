@@ -21,3 +21,4 @@
 4. ตอบ yes
 5. พิมพ์ command `apm publish patch` หรือ `apm publish minor`
 6. หากขึ้นตัวแดง ให้ไปเช็คที่ลิ้งค์ของ package ก่อน เพราะบางทีมันก็อัพเดตไปแล้ว
+7. Test เทส
